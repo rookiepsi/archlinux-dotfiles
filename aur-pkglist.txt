@@ -1,0 +1,13 @@
+# -----------------------------------------------------------------------------
+# aur-pkglist.txt - Packages from the Arch User Repository (AUR)
+# -----------------------------------------------------------------------------
+
+# --- AUR HELPER ---
+yay
+
+# --- LOGIN MANAGER ---
+greetd
+regreet
+
+# --- CURSOR THEME ---
+bibata-modern-ice-cursor-theme
