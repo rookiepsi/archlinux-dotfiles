@@ -1,17 +1,8 @@
-# -----------------------------------------------------------------------------
-# pkglist.txt - Packages from Official Repositories
-# -----------------------------------------------------------------------------
-
-# --- CORE SYSTEM & ARCHITECTURE ---
 git
 stow
-
-# --- AUDIO STACK ---
 pipewire
 pipewire-pulse
 wireplumber
-
-# --- THE HYPRLAND ECOSYSTEM ---
 hyprland
 hyprpaper
 hyprlock
@@ -20,18 +11,11 @@ hyprshot
 hyprcursor
 hyprpolkitagent
 xdg-desktop-portal-hyprland
-
-# --- UI & THEMING ENGINE ---
-eww-wayland
-wallust
-
-# --- ESSENTIAL GUI & CLI UTILITIES ---
 foot
 thunar
 swappy
 cliphist
-
-# --- AESTHETIC ASSETS ---
 ttf-jetbrains-mono-nerd
 papirus-icon-theme
-catppuccin-gtk-theme-mocha
+greetd
+greetd-regreet
