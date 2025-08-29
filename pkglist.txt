@@ -19,3 +19,6 @@ ttf-jetbrains-mono-nerd
 papirus-icon-theme
 greetd
 greetd-regreet
+discord
+obsidian
+vivaldi

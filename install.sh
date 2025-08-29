@@ -60,7 +60,7 @@ if ! command -v yay &> /dev/null; then
     sudo chown -R "$USER":"$USER" ./yay
     cd yay
     makepkg -si --noconfirm
-    cd "$HOME"/dotfiles # IMPORTANT: Return to the dotfiles directory
+    cd "$HOME"/dotfiles
     log_success "'yay' has been installed."
 else
     log_info "'yay' is already installed."

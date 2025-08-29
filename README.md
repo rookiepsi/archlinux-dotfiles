@@ -63,7 +63,7 @@ This setup is designed to be deployed on a fresh, minimal Arch Linux installatio
     ```toml
     # /etc/greetd/config.toml
     [default_session]
-    command = "regreet --cmd Hyprland"
+    command = "regreet"
     ```
 5.  Reboot the system:
     ```bash
