@@ -1,7 +1,7 @@
 yay
 eww
 wallust
-bibata-modern-ice-cursor
+bibata-cursor-theme
 catppuccin-gtk-theme-mocha
 notion-app-electron
 proton-pass-bin

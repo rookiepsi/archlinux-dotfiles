@@ -1,0 +1,1 @@
+exec /usr/bin/vivaldi-stable --enable-features=UseOzonePlatform --ozone-platform=wayland "$@"
