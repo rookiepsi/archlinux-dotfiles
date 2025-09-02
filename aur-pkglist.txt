@@ -3,6 +3,7 @@ eww
 wallust
 bibata-cursor-theme
 catppuccin-gtk-theme-mocha
+anki
 notion-app-electron
 proton-pass-bin
 spotify
